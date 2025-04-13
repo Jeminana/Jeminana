@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hi there, I'm Ahmad Najmi
 
-<!--
-**Jeminana/Jeminana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+2nd Year Artificial Intelligence Student at Hanyang University ERICA Campus, South Korea. Interested in AI, data and real-world applications - currently learning Python, data analysis and machine learning fundamentals.
 
-Here are some ideas to get you started:
+### 🌱 I’m currently learning ...
+- Understanding of Machine Learning
+- Data Visualization using libraries
+- Data Structure
+- Tensor Programming
+- Application of probability in AI learning
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🤔 I’m looking for help with ...
+- improving understanding in coding
+- tips in solving codes problem
+- implementing what I have learnt in work
+
+  
+### Goals
+- Build small but meaningful AI projects
+- Gain real-world experience through internships or part-time roles
+- Grow as a developer by learning and sharing
+
+### Tech Stack (Beginner Level)
+- Python, Jupyter Notebook, Google Colab
+- Numpy, Pandas, Matplotlib, SKLearn
+- Git & GitHub
+
+  ### Contact
+  Feel free to connect or collaborate:
+  sadenajmi@gmail.com
+  
 -->
